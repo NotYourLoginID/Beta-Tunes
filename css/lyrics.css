@@ -1,3 +1,9 @@
-﻿body
-{
+span {
+    display: block;
+}
+.chorus-block, .footnote{
+    font-style: italic;
+}
+.footnote{
+    font-size: 0.8em;
 }
